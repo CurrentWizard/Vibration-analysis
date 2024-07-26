@@ -1,0 +1,1 @@
+Using Pycharm or VsCode, (Pycharm is better) one can visualize vibration data of a stationary body and compare it by the benchmarks for fault detection in machines. This runs on python and uses the Flask framework.
